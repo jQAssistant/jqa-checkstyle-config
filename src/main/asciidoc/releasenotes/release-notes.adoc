@@ -1,5 +1,5 @@
 
-= jQAssistant Checkstyle Configuration Release Notes
+= Checkstyle Configuration
 
 include::1.11.0.adoc[]
 include::1.10.0.adoc[]
