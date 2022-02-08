@@ -27,6 +27,8 @@
       </module>
     <module name="NeedBraces"/>
 
+
   </module>
 
+  <module name="FileTabCharacter"/>
 </module>
