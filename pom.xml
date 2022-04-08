@@ -14,7 +14,7 @@
 
   <name>jQAssistant Checkstyle Configuration</name>
   <inceptionYear>2016</inceptionYear>
-  <url>http://jqassistant.org/</url>
+  <url>https://jqassistant.org/</url>
 
   <description>
     Checkstyle configuration of of jQAssistant to ensure our coding standards.
